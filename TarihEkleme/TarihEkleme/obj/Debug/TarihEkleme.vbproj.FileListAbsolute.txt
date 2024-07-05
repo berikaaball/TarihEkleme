@@ -1,0 +1,12 @@
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\bin\Debug\TarihEkleme.exe.config
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\bin\Debug\TarihEkleme.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\bin\Debug\TarihEkleme.pdb
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\bin\Debug\TarihEkleme.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.vbproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.Form1.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.vbproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.vbproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihEkleme\TarihEkleme\obj\Debug\TarihEkleme.pdb
